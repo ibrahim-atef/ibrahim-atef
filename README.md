@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ibrahim Atef >>Mobile app developer
+- 👋 Hi, I’m Ibrahim Atef >>Mobile app developer {Flutter | Java }
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate with team 
