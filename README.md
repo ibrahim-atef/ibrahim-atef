@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ibrahim Atef >>Mobile app developer 
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate with team 
 - 📫 How to reach me >> atf343069@gmail.com 
 
