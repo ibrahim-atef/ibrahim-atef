@@ -3,7 +3,7 @@
 I'm a passionate mobile app and Node.js developer with a keen interest in software development. Currently exploring new opportunities and eager to collaborate with dynamic teams on exciting projects.
 
 ## About Me
-- 💼 Mobile App || MEARN Stack Trainee
+- 💼 Mobile App ||  MEARN-Stack Developer || ITI Graduate
 - 👀 Interested in software development and innovative technologies
 - 💞️ Looking to collaborate with teams and contribute to impactful projects
 - 📫 How to reach me: [atf343069@gmail.com](mailto:atf343069@gmail.com)
