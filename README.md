@@ -8,5 +8,6 @@ I'm a passionate mobile app and Node.js developer with a keen interest in softwa
 - 💞️ Looking to collaborate with teams and contribute to impactful projects
 - 📫 How to reach me: [atf343069@gmail.com](mailto:atf343069@gmail.com)
 -  visit [ibrahim-atef.com](https://ibrahim-atef.github.io/Levi/) to explore my portfolio.
+-  [linkedin profile](https://www.linkedin.com/in/ibrahim-atef-6816a91b0/).
 
 Feel free to explore my repositories, and let's connect for any exciting collaborations or discussions. Happy coding!
